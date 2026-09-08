@@ -49,5 +49,3 @@ Data flows top-down: `agent` produces a `Report` (with nested `ProcessLog` and c
 
 ## Conventions
 
-- Student homework; commit message style `陈艺博第N周作业`.
-- Script-style code; no pytest framework used in this course line. Verification: `python -m py_compile research_assistant/*.py`, then no-key stub smoke run, then real run once keys are filled.
